@@ -4,7 +4,7 @@ library(dplyr)
 library(tidyr)
 
 ## Set working directory where you want to store the unzipped datafile
-wd <- "/Users/john.tribbia/Desktop/Desktop_FINAL/Data_Science_Coursera/Exploratory_Data_Analysis/week_1/ProgrammingAssignment"
+wd <- "/Users/user.name/FilePath"
 setwd(wd)
 ## Unzip and Extract data from url
 temp <- tempfile()
